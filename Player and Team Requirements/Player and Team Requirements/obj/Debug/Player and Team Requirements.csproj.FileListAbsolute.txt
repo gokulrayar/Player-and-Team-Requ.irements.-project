@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\Player and Team Requirements\Player and Team Requirements\bin\Debug\Player and Team Requirements.exe.config
+C:\Users\rayar\source\repos\Player and Team Requirements\Player and Team Requirements\bin\Debug\Player and Team Requirements.exe
+C:\Users\rayar\source\repos\Player and Team Requirements\Player and Team Requirements\bin\Debug\Player and Team Requirements.pdb
+C:\Users\rayar\source\repos\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.exe
+C:\Users\rayar\source\repos\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.pdb
